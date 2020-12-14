@@ -6,3 +6,4 @@ Using data posted on the San Mateo County COVID-19 website, I transcribe data fr
 
 The excel spreadsheet has been uploaded to the repository and a capture image of the graph saved to the image file shown below. 
 
+![](/COVID-19_San_Mateo_County.png)
